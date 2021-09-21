@@ -1,2 +1,2 @@
-# js_01-_olor_flipper
+# js_01_olor_flipper
 First Project Of JS Training
