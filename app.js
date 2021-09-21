@@ -11,7 +11,6 @@ btn.addEventListener("click", function(){
     //const randomNumber = Math.floor(Math.random() * (3 - 0 + 1)) + 0;
     // Other Solution
     const randomNumber = getRandomNumber();
-    console.log(randomNumber);
     document.body.style.backgroundColor=colors[randomNumber]
     color.textContent = colors[randomNumber];
    
